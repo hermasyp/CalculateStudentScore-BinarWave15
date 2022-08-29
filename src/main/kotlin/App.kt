@@ -10,6 +10,7 @@ class App {
         println("=====================================")
         println("Siswa Score App")
         println("Created by Tony Stark")
+        println("And Pepper Pots")
         println("=====================================")
     }
 
