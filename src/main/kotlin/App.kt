@@ -9,6 +9,7 @@ class App {
     private fun printHeader() {
         println("=====================================")
         println("Siswa Score App")
+        println("Created by Tony Stark")
         println("=====================================")
     }
 
